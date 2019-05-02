@@ -11,6 +11,7 @@
 		<Button Content="Push Me..." HorizontalAlignment="Left" Margin="485,360,0,0" VerticalAlignment="Top" Width="75"/>
 
 		<Label Content="Just for fun, lets add a label and check it in using Subversion." HorizontalAlignment="Left" Margin="41,39,0,0" VerticalAlignment="Top"/>
+		<Label Content="This label will be added using a commit to git." HorizontalAlignment="Left" Margin="125,126,0,0" VerticalAlignment="Top"/>
 
 	</Grid>
 </Window>
